@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "message": "Postman test"
+  },
+  {
+    "id": 2,
+    "message": "I sent data with Postman!"
+  },
+  {
+    "id": 3,
+    "project": "First Test (postman is worked!)"
+  }
+]
