@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Finish Backend Project",
+    "description": "Successfully complete the Day 7 final project and push to GitHub.",
+    "status": "in-progress",
+    "priority": "high",
+    "createdAt": "2026-02-24"
+  },
+  {
+    "id": 2,
+    "title": "Grocery Shopping",
+    "description": "Buy milk, eggs, coffee, and some snacks for the week.",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-02-24"
+  },
+  {
+    "id": 3,
+    "title": "Gym Session",
+    "description": "Cardio and upper body workout for at least 45 minutes.",
+    "status": "completed",
+    "priority": "medium",
+    "createdAt": "2026-02-25"
+  },
+  {
+    "id": 4,
+    "title": "Code Review",
+    "description": "Review the pull requests from the team and leave comments.",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-02-25"
+  },
+  {
+    "id": 5,
+    "title": "Read Technical Blog",
+    "description": "Read an article about microservices architecture and scalability.",
+    "status": "in-progress",
+    "priority": "low",
+    "createdAt": "2026-02-25"
+  },
+  {
+    "id": 6,
+    "title": "Doctor Appointment",
+    "description": "Routine check-up at the city hospital at 10:00 AM.",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "id": 7,
+    "title": "Pay Utility Bills",
+    "description": "Pay electricity, water, and internet bills before the deadline.",
+    "status": "completed",
+    "priority": "medium",
+    "createdAt": "2026-02-26"
+  },
+  {
+    "id": 8,
+    "title": "Update Portfolio",
+    "description": "Add the new backend project to the personal portfolio website.",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-02-26"
+  }
+]
